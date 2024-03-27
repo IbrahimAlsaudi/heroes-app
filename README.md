@@ -37,9 +37,7 @@ Super Heroes is an Android application built with Kotlin Jetpack Compose that di
 
 The app supports both light and dark themes. You can switch between themes in the app settings.
 
-## Contributors
+## Contributing
 
-- [Your Name](https://github.com/yourusername)
-
-Feel free to contribute to this project by opening an issue or submitting a pull request!
+Contributions are welcome! If you'd like to contribute, please feel free to do so!
  
